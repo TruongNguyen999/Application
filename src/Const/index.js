@@ -1,0 +1,7 @@
+export const SEND_TEXT = 'SEND_TEXT'
+export const TOGGLE_FORM_USER = 'TOGGLE_FORM_USER'
+export const ADD_FORM_USER = 'ADD_FORM_USER'
+export const FILTER_NAME = 'FILTER_NAME'
+export const CHANGE_STATUS = 'CHANGE_STATUS'
+export const DELETE_USER = 'DELETE_USER'
+export const UPDATE_USER = 'UPDATE_USER'

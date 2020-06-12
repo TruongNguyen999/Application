@@ -1,0 +1,108 @@
+.bg{
+    background: #212422;
+    border-radius: 20px;
+    position: relative;
+    -webkit-box-shadow: 9px 6px 17px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 17px -4px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 17px -4px rgba(0,0,0,0.75);
+}
+.form-control{
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    
+    background: #5b615d;
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+    float: left;
+}
+.list-group{
+    margin-top: 80px;
+    margin-left: 10px;
+
+}
+.list-group-item{
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.list-group-item:hover{
+    background: #5b615d;
+    border-radius: 10px;
+}
+.btn-icon{
+    float: right;
+    margin-top: 20px;
+}
+.btn-icon-true{
+    background: #0f5edb;
+    float: right;
+    margin-top: 20px;
+}
+.form-text{
+    margin-top: 80px;
+    height: 500px;
+    background: #e1e6e2;
+    border-radius: 10px;
+    position: relative;
+    overflow: auto;
+}
+.textarea{
+   border-radius: 10px;
+   width: 85%;
+    margin: 0;
+    padding: 0;
+}
+.btn-gui{
+    margin-left: 5px;
+    width: 14%;
+    height: 70px;
+    border-radius: 10px;
+}
+.form-user{
+    margin-top: 20px;
+}
+.form-user label{
+    color: white;
+    font-size: 20px;
+}
+.form-user .form-input{
+    margin-left: 0;
+}
+.group-user{
+    height: 450px;
+    margin-top: 70px;
+    overflow: auto;
+}
+.group-user ul{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+.bg-user{
+    color: #04b51b;
+}
+.bg-user-ol{
+    color: #ff0a1f;
+}
+.btn-them{
+    margin-right: 20px;
+    height: 50px;
+}
+.btn-xoa{
+    height: 50px;
+}
+.images-icone-user{
+    margin-top: 15px;
+    list-style: none;
+}
+.btn-modal-footer{
+    margin-top: 20px;
+}
+.form-user-oferlow{
+    overflow: auto;
+    height: 300px;
+}
